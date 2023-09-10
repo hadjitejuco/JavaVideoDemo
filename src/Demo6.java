@@ -8,13 +8,13 @@ public class Demo6 {
             boolean b;
             b = false;
             
-            System.out.println("b is " + b);
+            System.out.println("b is " + b); //false
             
-            b = true;
+            b = true;   
             
-            System.out.println("b is " + b);
+            System.out.println("b is " + b); //true
             
-            if(b)
+            if(b) //true
             {
                 System.out.println("This is executed.");
             }

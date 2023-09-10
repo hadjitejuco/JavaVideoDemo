@@ -12,7 +12,7 @@ public class Demo5 {
         
         System.out.print("aChar and bChar : ");
         
-        System.out.println(aChar + " " + aChar);
+        System.out.println(aChar + " " + bChar);
         
         aChar++; // increment aChar
         

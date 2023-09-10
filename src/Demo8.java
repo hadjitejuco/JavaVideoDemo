@@ -4,7 +4,7 @@
 //Go to src FOLDER -> you can see the files
 public class Demo8 {
     static final int NUMBER_OF_MONTHS = 12;
-    static final double PI = (double) 22 / 7;
+    static final double PI = (double) 22 / 7;   //3.14
     
     public static void main( String args[] )
     {
